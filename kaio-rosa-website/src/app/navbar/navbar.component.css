@@ -9,9 +9,9 @@ a {
     color: white;
 }
 
-mat-toolbar {
+/* mat-toolbar {
     margin-bottom: 1rem;
-}
+} */
 
 ul {
     display: flex;
